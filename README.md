@@ -43,7 +43,7 @@ busca-cep/
 1. Clone este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/busca-cep.git
+git clone https://github.com/matheusrsdeveloper/Busca-cep.git
 ```
 
 2. Acesse a pasta do projeto
@@ -88,6 +88,7 @@ O projeto utiliza a API pública do **ViaCEP** para consulta de endereços brasi
 - [ ] Histórico das últimas pesquisas
 - [ ] Layout totalmente responsivo
 - [ ] Tema claro e escuro
+
 
 ---
 
